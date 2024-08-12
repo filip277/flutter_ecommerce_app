@@ -12,14 +12,15 @@
 
 E-Commerce app is a design implementation of [E-commerce App](https://dribbble.com/shots/15550702-E-commerce-Mobile-App) designed by [Billah](https://dribbble.com/designermasum)
 
-![](https://github.com/SinaSys/flutter_ecommerce_app/blob/master/screenshots/screenshot.png?raw=true)
+![image](https://github.com/user-attachments/assets/a0426fce-811f-4dd2-96ff-6a5e8948022f)
 
 
 ## Screenshots
 
 Preview                    |   Home screen             |  Product Detail Screen    |  Cart Screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/SinaSys/flutter_ecommerce_app/blob/master/screenshots/preview.gif?raw=true)|![](https://github.com/SinaSys/flutter_ecommerce_app/blob/master/screenshots/home_screen.png?raw=true)|![](https://github.com/SinaSys/flutter_ecommerce_app/blob/master/screenshots/detail_screen.png?raw=true)|![](https://github.com/SinaSys/flutter_ecommerce_app/blob/master/screenshots/cart_screen.png?raw=true)
+![image](https://github.com/user-attachments/assets/f130771a-49b2-4356-8269-8cbffe0057db)|![image](https://github.com/user-attachments/assets/86f5d959-ba82-42aa-8a74-cbffa1274c46)|![image](https://github.com/user-attachments/assets/9a90db13-8f5f-4005-b013-6904939aa4e3)|![image](https://github.com/user-attachments/assets/4cc7023a-2231-447f-922f-562d5a185f0b)
+
 
 <br/>
 
@@ -79,20 +80,7 @@ Package Name        |
 
 ## Created & Maintained By
 
-[SinaSys](https://github.com/SinaSys) 
-
-
-## Contributors
-• [mufarrah](https://github.com/mufarrah)
-<br/>
-<br/>
-
-##  Other flutter projects
- Project Name        |Stars        
-:-------------------------|-------------------------
-[Go rest app](https://github.com/SinaSys/flutter_go_rest_app)|![GitHub stars](https://img.shields.io/github/stars/SinaSys/flutter_go_rest_app?style=social)
-[Japanese restaurant app](https://github.com/SinaSys/flutter_japanese_restaurant_app)| ![GitHub stars](https://img.shields.io/github/stars/SinaSys/flutter_japanese_restaurant_app?style=social)
-|[Office furniture store app](https://github.com/SinaSys/flutter_office_furniture_store_app) |![GitHub stars](https://img.shields.io/github/stars/SinaSys/flutter_office_furniture_store_app?style=social)
+[Filip](https://github.com/filip277) 
 
 
 
